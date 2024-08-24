@@ -1,0 +1,6 @@
+[submodule "query"]
+	path = query
+	url = https://github.com/coder-ka/query
+[submodule "prisma-query"]
+	path = prisma-query
+	url = https://github.com/coder-ka/prisma-query
