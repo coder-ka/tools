@@ -4,3 +4,12 @@
 [submodule "prisma-query"]
 	path = prisma-query
 	url = https://github.com/coder-ka/prisma-query
+[submodule "testing"]
+	path = testing
+	url = https://github.com/coder-ka/testing
+[submodule "model"]
+	path = model
+	url = https://github.com/coder-ka/model
+[submodule "parten"]
+	path = parten
+	url = https://github.com/coder-ka/parten
