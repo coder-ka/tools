@@ -2,6 +2,10 @@
   "private": true,
   "workspaces": [
     "query",
-    "prisma-query"
+    "prisma-query",
+    "testing",
+    "parten",
+    "testing",
+    "model"
   ]
 }
