@@ -10,6 +10,3 @@
 [submodule "knotta"]
 	path = knotta
 	url = https://github.com/coder-ka/knotta
-[submodule "parten"]
-	path = parten
-	url = https://github.com/coder-ka/parten
