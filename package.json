@@ -6,6 +6,8 @@
     "testing",
     "parten",
     "testing",
-    "knotta"
+    "knotta",
+    "knotta-lsp-vscode-ext",
+    "knotta-lsp-server"
   ]
 }
