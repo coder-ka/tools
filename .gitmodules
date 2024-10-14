@@ -10,3 +10,9 @@
 [submodule "knotta"]
 	path = knotta
 	url = https://github.com/coder-ka/knotta
+[submodule "knotta-lsp-vscode-ext"]
+	path = knotta-lsp-vscode-ext
+	url = https://github.com/coder-ka/knotta-lsp-vscode-ext
+[submodule "knotta-lsp-server"]
+	path = knotta-lsp-server
+	url = https://github.com/coder-ka/knotta-lsp-server
